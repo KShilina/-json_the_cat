@@ -2,8 +2,8 @@
 ## Cat Breed Fetcher
  This project about how to build a command line app that makes it "easy" for users to query this dataset from the terminal. Users can provide any breed name, causing our application to fetch the information from the API and print out a short description of that breed.
 ## Set Up
-1. Install Node.js
-2.Clone this repository to your local machine and install the dependencies using 
+- Install Node.js
+- Clone this repository to your local machine and install the dependencies using 
 ```javascript
 npm
 ```
