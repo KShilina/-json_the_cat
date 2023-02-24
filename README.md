@@ -15,7 +15,7 @@ npm install
 ## How to use
 Specify the breed name using command-line arguments.
 ```javascript
-> node breedFetcher.js Chartreux
+> node index.js Chartreux
 ```
 This will fetch a brief description of the Siberian cat breed and display it in the terminal.
 
